@@ -38,10 +38,12 @@ Hey folks, I have created a beautiful Calculator.
 
 ### Additional Notes
 .can use this app using docker also
- ``` docker pull rahulhooda99/my-calculator
- ```
- ``` docker run -p <yourPORT>:1234 rahulhooda99/my-calculator(or use imageID)
- ```
+```bash
+ docker pull rahulhooda99/my-calculator
+```
+```bash
+ docker run -p <yourPORT>:1234 rahulhooda99/my-calculator(or use imageID)
+```
 got ot browser enter localhost:<yourPORT>
 
 
