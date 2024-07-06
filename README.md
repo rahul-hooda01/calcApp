@@ -45,10 +45,8 @@ Hey folks, I have created a beautiful Calculator.
  docker run -p <yourPORT>:1234 rahulhooda99/my-calculator(or use imageID)
 ```
 got ot browser enter localhost:<yourPORT>
-
+   
 
 Enjoy..
 
 ---
-
-Make sure to customize the URLs, commands, and instructions based on your actual project setup. This will help others easily clone and run your `calcApp` project on their local machines.
